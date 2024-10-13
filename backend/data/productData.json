@@ -1,0 +1,73 @@
+[
+    {
+      "name": "Wireless Earbuds",
+      "rating": "4.5",
+      "prize": "2999",
+      "description": "High-quality sound with noise-canceling feature and Bluetooth connectivity.",
+      "image": "https://example.com/images/earbuds.jpg"
+    },
+    {
+      "name": "Smart Watch",
+      "rating": "4.2",
+      "prize": "4999",
+      "description": "Fitness tracker with heart rate monitor, sleep tracking, and waterproof design.",
+      "image": "https://example.com/images/smartwatch.jpg"
+    },
+    {
+      "name": "Gaming Mouse",
+      "rating": "4.8",
+      "prize": "1999",
+      "description": "Ergonomic design with customizable buttons and RGB lighting.",
+      "image": "https://example.com/images/mouse.jpg"
+    },
+    {
+      "name": "Laptop Backpack",
+      "rating": "4.3",
+      "prize": "1499",
+      "description": "Water-resistant backpack with multiple compartments for laptops up to 15 inches.",
+      "image": "https://example.com/images/backpack.jpg"
+    },
+    {
+      "name": "Bluetooth Speaker",
+      "rating": "4.7",
+      "prize": "2499",
+      "description": "Portable speaker with long battery life and rich bass.",
+      "image": "https://example.com/images/speaker.jpg"
+    },
+    {
+      "name": "4K Monitor",
+      "rating": "4.6",
+      "prize": "15999",
+      "description": "Ultra HD display with vibrant colors and adjustable stand.",
+      "image": "https://example.com/images/monitor.jpg"
+    },
+    {
+      "name": "Mechanical Keyboard",
+      "rating": "4.9",
+      "prize": "3999",
+      "description": "Tactile switches with customizable RGB lighting and durable build.",
+      "image": "https://example.com/images/keyboard.jpg"
+    },
+    {
+      "name": "Fitness Band",
+      "rating": "4.4",
+      "prize": "2999",
+      "description": "Tracks steps, calories burned, and sleep patterns with water resistance.",
+      "image": "https://example.com/images/fitnessband.jpg"
+    },
+    {
+      "name": "Wireless Charger",
+      "rating": "4.1",
+      "prize": "999",
+      "description": "Fast charging pad compatible with multiple devices.",
+      "image": "https://example.com/images/charger.jpg"
+    },
+    {
+      "name": "Action Camera",
+      "rating": "4.8",
+      "prize": "11999",
+      "description": "Compact camera with 4K recording, waterproof casing, and image stabilization.",
+      "image": "https://example.com/images/actioncamera.jpg"
+    }
+  ]
+  
